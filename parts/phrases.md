@@ -29,7 +29,7 @@ E você?
 **Schön dich zu treffen**  
 Prazer em conhecê-lo  
 
-**Was ist ihr Name?** 
+**Was ist ihr Name?**  
 Qual o seu nome?  
  
 **Ich heiße...**  
