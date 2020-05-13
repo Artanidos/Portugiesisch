@@ -4,7 +4,7 @@ Você está ocupado?
 **Ja, ich bin besetzt**  
 Sim, estou ocupado  
 
-**Du bist frei** 
+**Du bist frei**  
 Você está livre?  
 
 **Ja, ich bin frei**  

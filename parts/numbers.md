@@ -42,6 +42,6 @@
 |1.000|mil|
 |2.000|dois mil|
 |3.000|três mil|
-|123||
-|1234||
-|1.000.000||
+|123|cento e vinte e três|
+|1234|mil e duzcentos e trinta e quatro|
+|1.000.000|milhão|

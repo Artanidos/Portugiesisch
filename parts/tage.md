@@ -8,5 +8,5 @@
 |Mittwoch|quarta-feira| 
 |Donnerstag|quinta-feira|
 |Freitag|sexta-feira|
-|**Samstag**|sábado|
-|**Sonntag**|domingo|
+|Samstag|sábado|
+|Sonntag|domingo|

@@ -10,16 +10,16 @@ Ebook {
         name: "Tage"
     }
     Part {
+        src: "months.md"
+        name: "Monate"
+    }
+    Part {
         src: "150.md"
-        name: "150"
+        name: "150 Sätze"
     }
     Part {
         src: "imschlaf.md"
         name: "Im Schlaf"
-    }
-    Part {
-        src: "months.md"
-        name: "Monate"
     }
     Part {
         src: "numbers.md"
